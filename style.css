@@ -78,7 +78,7 @@ div.questions btn a {
 }
 div.questions a.btn {
   border-radius: 5px;
-  color: #FFF;
+  border-color: #FFF;
   background-color: #007bff;
   text-decoration: none;
   padding: 18px;
