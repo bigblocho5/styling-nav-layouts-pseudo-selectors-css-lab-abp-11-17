@@ -76,7 +76,7 @@ div.questions btn a {
   color: #FFF;
   background-color, border-color: #007bff;
 }
-#magic {
+a.btn {
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
