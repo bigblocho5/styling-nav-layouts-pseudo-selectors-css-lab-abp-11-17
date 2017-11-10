@@ -76,7 +76,7 @@ div.questions btn a {
   color: #FFF;
   background-color, border-color: #007bff;
 }
-a.btn {
+div.questions a.btn {
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
@@ -84,7 +84,7 @@ a.btn {
   padding: 18px;
   font-size: 20px;
 }
-a.btn:hover {
+div.questions a.btn:hover {
   color: #0069d9;
 }
 footer{
